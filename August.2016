@@ -1,0 +1,1 @@
+Deep Hierarchical Parsing for Semantic Segmentation: use multi-scale CNNs to extract features and then label super-pixels then use random binary parse trees to pul labels for super-pixels. CVPR15
