@@ -19,3 +19,10 @@ Narodytska and Kasiviswanathan. Simple Black-Box Adversarial Perturbations for D
 Tabacof, Tavares and Valle. Adversarial Images for Variational Autoencoders
 Wu, Burda, Salakhutdinov and Grosse. On the Quantitative Analysis of Decoder-Based Generative Models
 Miyato, Dai and Goodfellow. Adversarial Training Methods for Semi-Supervised Text Classification
+
+
+
+https://github.com/likang7/variational-dpgmm/blob/master/vdpgmm.py
+https://www.ics.uci.edu/~welling/publications/papers/cvdp-v6.pdf
+http://www.cs.columbia.edu/~blei/papers/BleiJordan2004.pdf
+http://papers.nips.cc/paper/3025-accelerated-variational-dirichlet-process-mixtures.pdf
